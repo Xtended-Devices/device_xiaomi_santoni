@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "vendor_xiaomi_santoni",
+    "target_path": "vendor/xiaomi/santoni",
+  },
+  {
+    "remote": "github",
+    "repository": "Dhruvgera/RockstarKernel_r4x",
+    "target_path": "kernel/xiaomi/msm8937",
+    "revision": "master"
+  }
+]
